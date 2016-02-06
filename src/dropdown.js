@@ -24,7 +24,7 @@ var DropdownMenu = React.createClass({
 				<button className='btn btn-info'>
 					Dropdown Menu
 				</button>
-				<ul>
+				<ul style={ this.state.open ? styles.open : styles.closed }>
 					<li>Option #1</li>
 					<li>Option #2</li>
 					<li>Option #3</li>
