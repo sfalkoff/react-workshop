@@ -37,9 +37,6 @@ For DropdownMenu appearance styles exercise:
 Define your custom class below.
 */
 .my-custom-class {
-  /* 
-  font-style: italic;
+  font-style: normal;
   font-weight: 600;
-  font-family: 'Monotype'; 
-  */
 }
