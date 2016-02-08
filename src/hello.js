@@ -11,6 +11,6 @@ var Hello = React.createClass ({
 });
 
 ReactDOM.render(
-  <Hello title="React Example" />, 
+  <Hello title="Example" />, 
   document.getElementById('hello')
 );
